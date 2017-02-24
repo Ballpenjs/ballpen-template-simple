@@ -1,0 +1,25 @@
+{
+  "name": "ballpen-template-simple",
+  "version": "0.1.0",
+  "description": "Ballpen.js official scaffolding template.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ballpenjs/ballpen-template-simple.git"
+  },
+  "keywords": [
+    "gulp",
+    "template",
+    "ballpen",
+    "scaffolding"
+  ],
+  "author": "YHSPY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ballpenjs/ballpen-template-simple/issues"
+  },
+  "homepage": "https://github.com/Ballpenjs/ballpen-template-simple#readme"
+}
